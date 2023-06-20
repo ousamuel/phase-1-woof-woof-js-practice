@@ -42,7 +42,13 @@
   flex-flow: column;
   align-items: center;
 }
-
+.dog {
+  border: solid;
+  border-radius: 9px;
+  line-height: 50px;
+  border-width: 2px; 
+  border-color: blue;
+}
 #dog-info img {
   max-width: 75vw;
   max-height: 25vw;
